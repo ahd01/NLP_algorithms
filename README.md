@@ -110,7 +110,6 @@ Here are some example sentences for testing different models:
         "كان الحفل عاديًا ولم يكن هناك شيء مميز."
         "المنتج يؤدي الغرض المطلوب، ولكنه ليس استثنائيًا."
 
-Results Visualization
 
 After evaluating the models, you can generate visual comparisons (accuracy, precision, recall, F1 score) by running:
 
